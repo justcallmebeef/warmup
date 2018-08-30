@@ -1,0 +1,30 @@
+body {
+    background: red;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    height: 100vh;
+}
+
+.container {
+    padding: 30%;
+    display: flex;
+    justify-content: center;
+}
+    
+.symbol {
+    width: 10px;
+    height: 400px; 
+    background-color: white;
+}
+
+.pulp {
+    font-family: arial; 
+    color: #fbd714;
+    text-align: center;
+}
+
+li {
+    list-style-type: none; 
+}
+
